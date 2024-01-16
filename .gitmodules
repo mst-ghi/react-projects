@@ -1,0 +1,6 @@
+[submodule "nestjs-nextjs-starter"]
+	path = nestjs-nextjs-starter
+	url = https://github.com/mst-ghi/nestjs-nextjs-starter
+[submodule "any-english-frontend"]
+	path = any-english-frontend
+	url = https://github.com/mst-ghi/any-english-frontend

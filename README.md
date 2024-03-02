@@ -6,6 +6,23 @@ Welcome to the Reactjs Projects Repository! This repository serves as a hub for 
 
 ## Projects
 
+### [Video Conf Project](https://github.com/mst-ghi/video-conf-frontend)
+
+-   **Description:** A simple project for communities. This project contain Communities, Events, Chat, Video Chat and etc.
+-   **Technical Features:**
+    -   Nextjs framework
+    -   Mantine UI
+    -   Tabler icons
+    -   Husky
+    -   React query
+    -   Framer motion
+    -   Cookie and storage
+    -   Zustand
+    -   Feature design component
+    -   SocketIO
+    -   Realtime Chat
+    -   Video & Audio Call
+
 ### [Any English Project](https://github.com/mst-ghi/any-english-frontend)
 
 -   **Description:** A simple project for English learner. This project contain Words, Phrases, Conversations and Lightner.

@@ -4,3 +4,6 @@
 [submodule "any-english-frontend"]
 	path = any-english-frontend
 	url = https://github.com/mst-ghi/any-english-frontend
+[submodule "video-conf-frontend"]
+	path = video-conf-frontend
+	url = https://github.com/mst-ghi/video-conf-frontend

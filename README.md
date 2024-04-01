@@ -6,7 +6,7 @@ Welcome to the Reactjs Projects Repository! This repository serves as a hub for 
 
 ## Projects
 
-### [Video Conf Project](https://github.com/mst-ghi/video-conf-frontend)
+### [Simple Conf Project](https://github.com/mst-ghi/simple-conf-frontend)
 
 -   **Description:** A simple project for communities. This project contain Communities, Events, Chat, Video Chat and etc.
 -   **Technical Features:**

@@ -7,3 +7,6 @@
 [submodule "simple-conf-frontend"]
 	path = simple-conf-frontend
 	url = https://github.com/mst-ghi/simple-conf-frontend.git
+[submodule "hiddify-config-generator"]
+	path = hiddify-config-generator
+	url = https://github.com/mst-ghi/hiddify-config-generator.git

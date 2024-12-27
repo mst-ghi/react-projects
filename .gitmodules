@@ -7,3 +7,6 @@
 [submodule "simple-conf-frontend"]
 	path = simple-conf-frontend
 	url = https://github.com/mst-ghi/simple-conf-frontend.git
+[submodule "gym-planner-dashboard"]
+	path = gym-planner-dashboard
+	url = https://github.com/mst-ghi/gym-planner-dashboard

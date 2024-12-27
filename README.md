@@ -6,6 +6,22 @@ Welcome to the Reactjs Projects Repository! This repository serves as a hub for 
 
 ## Projects
 
+### [Gym Planner Dashboard](https://github.com/mst-ghi/gym-planner-dashboard)
+
+-   **Description:** Gym planner dashboard project. A Project for Gym Instructors & Coach.
+    Medical records, Equipments, Body Parts, Exercises, Food & Workout Program, etc..
+-   **Technical Features:**
+    -   Nextjs framework
+    -   Mantine UI
+    -   Tabler icons
+    -   Husky
+    -   React query
+    -   Framer motion
+    -   Cookie and storage
+    -   Zustand
+    -   Feature design component
+    -   Wizard forms
+
 ### [Simple Conf Project](https://github.com/mst-ghi/simple-conf-frontend)
 
 -   **Description:** A simple project for communities. This project contain Communities, Events, Chat, Video Chat and etc.
